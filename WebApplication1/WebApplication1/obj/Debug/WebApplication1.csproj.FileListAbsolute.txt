@@ -1,0 +1,5 @@
+D:\ASP Project\game-website\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\ASP Project\game-website\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\ASP Project\game-website\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\ASP Project\game-website\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ASP Project\game-website\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
